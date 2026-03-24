@@ -79,7 +79,7 @@ flowchart LR
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=thomas065\&show_icons=true\&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=thomas065\&theme=tokyonight)
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thomas065\&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thomas065&theme=tokyo-night)
 
 ---
 
